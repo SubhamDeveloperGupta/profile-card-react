@@ -17,6 +17,18 @@ const button = [
   {
     skill: "Spring Boot",
   },
+  {
+    skill:"Postman"
+  },
+  {
+    skill: "Python"
+  },
+  {
+    skill: "Hibernate"
+  },
+  {
+    skill:"Docker"
+  }
 ];
 
 const btnColor = [
